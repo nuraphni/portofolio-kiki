@@ -1,0 +1,36 @@
+{
+    "name": "Kiki Nur Afni",
+    "description": "Dynamic Electronic Engineering Technology student with a strong interest in IoT development, firmware programming, and microcontroller architecture. Possessing a foundation in C/C++, hardware-software integration, and industrial automation. Experienced in developing IoT-based solutions through various laboratory projects, focusing on sensor data acquisition, cloud connectivity, and real-time monitoring. Currently learning and exploring ways to translate technical requirements into efficient code and functional hardware prototypes. Committed to expanding my knowledge in the IoT ecosystem and microcontroller advancements. Seeking to leverage my technical skills and passion for programming to contribute to innovative projects and grow as a technology professional.",
+    "profileImage": "images/profilee.jpg",
+    "email": "kiki.43423012@mhs.polines.ac.id",
+    "phone": "+62 (813) 934-74939",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/kiki-nur-afni-1a80372b4"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/nuraphni"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/apniao"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+	{"name": "Mikrokontroler (Arduino/ESP)", "icon": "fas fa-microchip", "level": 90},
+    {"name": "IoT & Networking", "icon": "fas fa-wifi", "level": 85},
+    {"name": "PLC & Automation", "icon": "fas fa-industry", "level": 80},
+    {"name": "Robotics & Control", "icon": "fas fa-robot", "level": 80},
+    {"name": "PCB Design", "icon": "fas fa-bolt", "level": 85},
+    {"name": "CAD/Mechanical Design", "icon": "fas fa-cubes", "level": 75},
+    {"name": "Microsoft Office Suite", "icon": "fas fa-file-invoice", "level": 90},
+    {"name": "Matlab/Simulink", "icon": "fas fa-calculator", "level": 85}
+    ]
+}

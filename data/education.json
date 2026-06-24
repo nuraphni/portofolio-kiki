@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Engineering in Electrical Engineering ",
+        "year": "2023 - 2027",
+        "description": "GPA: 3.64 of 4.00. Bachelor of Applied Engineering student in Electrical Engineering with focus on industrial automation, control systems, IoT, microcontroller applications, and PLC programming. Experienced in laboratory-based projects involving sensor integration, embedded control, system automation, and industrial problem solving through practical engineering implementations."
+	},
+    {
+        "university": "State Vocational High School No. 07, Semarang",
+		"logo": "images/stemba-logo.jpg",
+        "major": "Mechatronic",
+        "year": "2019 - 2023",
+        "description": "Graduated from the Mechatronics Engineering program with a focus on industrial automation, PLC programming, robotics, pneumatics, electrical control systems, and industrial instrumentation. Gained hands-on experience through laboratory activities and automation-based projects."
+    }
+]

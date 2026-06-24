@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Smart Hydroponic Lettuce Greenhouse; The Effect of UV Light on the Growth of Hydroponic Lettuce",
+        "year": "2025",
+        "partner": "Kelompok 2 RE-3A",
+        "role": "Electrical Engineer",
+        "description": "Engineered an automated smart greenhouse system to analyze the effect of UV light on hydroponic lettuce. Designed the electrical control circuit and integrated multiple sensors (DHT22, UV, LM35DZ) with an IoT platform for real-time monitoring and data visualization via a web dashboard.",
+        "image": "images/project1.jpeg",
+        "link": "https://example.com/smart-hydroponic"
+    },
+    {
+        "title": "Lab Module: PID-Based Water Level Control System",
+        "year": "2025",
+        "partner": "TIM 3 RE-3A",
+        "role": "Electrical Engineer",
+        "description": "This module focuses on implementing a PID controller to maintain a stable water level in a tank system, covering the tuning of Proportional, Integral, and Derivative parameters to achieve optimal system response and minimize steady-state error.",
+        "image": "images/project3.jpeg",
+        "link": "https://example.com/water-level"
+    },
+	{
+        "title": "Automated Parking Information System Prototype",
+        "year": "2024",
+        "partner": "Kelompok 1 RE-2A",
+        "role": "IoT Firmware Developer",
+        "description": "An IoT-based automated parking prototype that detects space availability and manages entry/exit gates in real-time to optimize parking management efficiency.",
+        "image": "images/project2.jpeg",
+        "link": "https://youtu.be/20Cq8qPUUM8?feature=shared"
+    }
+]
